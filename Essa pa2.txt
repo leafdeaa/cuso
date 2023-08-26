@@ -1,0 +1,3 @@
+calculadora
+
+Montar uma caluladora que realize operações de subtração, adição, divisão e multiplicação com 4 algarismos onde se pode escolher os sinais das opeações separadamente.
